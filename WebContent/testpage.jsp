@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1> Hello Demo project -- Mod1 --mod2</h1>
+
 </body>
 </html>
